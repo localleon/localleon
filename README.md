@@ -24,17 +24,6 @@ I’m passionate about building the golden path for teams to design, ship, and o
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
 </p>
 
-## Open source focus
-
-I publish:
-- Hands‑on tutorials for practitioners
-- Niche infra tooling to smooth sharp edges in day‑2 operations
-- IaC templates and scaffolds to accelerate platform teams
-
-Explore my work:
-- Repositories: https://github.com/localleon?tab=repositories
-- Stars & bookmarks: https://github.com/localleon?tab=stars
-
 ## What I’m into right now
 
 - Designing paved roads for multi‑env, multi‑tenant Kubernetes platforms
@@ -47,16 +36,3 @@ Explore my work:
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=localleon&show_icons=true&hide_title=true&theme=transparent" alt="GitHub Stats for @localleon" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=localleon&layout=compact&langs_count=8&theme=transparent" alt="Top Languages for @localleon" />
 </p>
-
-<!-- Optional: add your social links
-## Connect
-- LinkedIn: …
-- Blog: …
-- X/Twitter: …
--->
-
-<!-- Optional: highlight a few repos
-## Highlights
-- [repo-1](https://github.com/localleon/…) — one‑line description
-- [repo-2](https://github.com/localleon/…) — one‑line description
--->
